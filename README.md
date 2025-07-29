@@ -1,4 +1,4 @@
-# SMTP Demo Project
+# SMTP Project
 
 This is a simple **Spring Boot SMTP demo project** for sending emails using JavaMailSender.
 
