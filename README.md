@@ -17,8 +17,6 @@ This is a simple **Spring Boot SMTP demo project** for sending emails using Java
 - Spring Mail (JavaMailSender)
 - Maven
 
-## ⚙️ Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/dev-muzzammil/SMTP.git
+
+
